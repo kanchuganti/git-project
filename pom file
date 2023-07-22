@@ -1,0 +1,12 @@
+<distributionManagement>
+     <snapshotRepository>  
+        <id>jfrog-snapshots</id>
+        <url>https://arunakanchuganti.jfrog.io/artifactory/web
+application/</url>
+         <snapshotRepository>
+         </repository>
+            <id>jfrog-releases</id>
+            <urlhttps://arunakanchuganti.jfrog.io/artifactory/web-application/</url>
+        </Repository>
+  </distributionManagement>
+  
